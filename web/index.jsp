@@ -16,7 +16,7 @@
 </head>
 <body>
   <div class="very-center whole-screen">
-    <h1 class="white-text">Welcome to Millo</h1>
+    <h1 class="white-text">Welcome to Millo :)</h1>
     <p class="white-text">Your favourite Milestone Planner!</p>
   </div>
 </body>
