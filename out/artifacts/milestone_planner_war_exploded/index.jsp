@@ -15,7 +15,9 @@
   <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400|Raleway:300,400" rel="stylesheet">
 </head>
 <body>
-<h1 style="font-size: ">Welcome to Millo</h1>
-<p>Your favourite Milestone Planner</p>
+<div class="very-center">
+<h1 class="white-text">Welcome to Millo</h1>
+<p class="white-text">Your favourite Milestone Planner!</p>
+</div>
 </body>
 </html>

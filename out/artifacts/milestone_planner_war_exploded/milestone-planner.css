@@ -16,7 +16,16 @@ h1{
     letter-spacing: 1px;
     font-weight: 300;
 }
-.entireScreen{
+.white-text{
+    color: #ffffff;
+}
+.very-center{
     max-width: 1484px;
     height: 100vh;
+    background-color: #003366;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
 }
