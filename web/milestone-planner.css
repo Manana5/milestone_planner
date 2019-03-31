@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 18px;
+    font-family: 'Quicksand', sans-serif;
+    color: #DCDCDC;
+    max-width: 1484px;
+}
+h1{
+    font-size: 455%;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+.whole-screen{
+    max-width: 1484px;
+    height: 100vh;
+}
+.blue-background{
+    background-color: midnightblue;
+}
+.white-text{
+    color: #ffffff;
+}
