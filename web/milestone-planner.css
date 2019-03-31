@@ -19,9 +19,9 @@ h1{
 .whole-screen{
     max-width: 1484px;
     height: 100vh;
-}
-.blue-background{
-    background-color: midnightblue;
+    background-color: #003366;
+    top: 45%;
+    left: 25%;
 }
 .white-text{
     color: #ffffff;
